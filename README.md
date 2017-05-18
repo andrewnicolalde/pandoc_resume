@@ -14,4 +14,5 @@ Requirements:
  * pandoc
 
 Credits:
+
 This resume is derived from The Markdown Resume http://mszep.github.io/pandoc_resume/ 
