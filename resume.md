@@ -73,7 +73,7 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Additional Interests
 ----------------------------------------
 
 * Human Languages:
@@ -87,5 +87,6 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <andrew.nicolalde@gmail.com> • +44 07397 239145 | +1 (817)-726-1855 • 19 years old\
-> 4006 Pembrooke Parkway West - Colleyville TX, United States of America
+> <andrew.nicolalde@gmail.com> • +1 (817)-726-1855 | +44 07397 239145 • 19 years old\
+> 4006 Pembrooke Parkway West - Colleyville TX 76034, United States of America\
+> Founders RM E212 - Egham Surrey TW20 0EX, United Kingdom\
