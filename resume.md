@@ -1,4 +1,4 @@
-Johnny Coder
+Andrew Nicolalde
 ============
 
 ----
@@ -12,22 +12,13 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2016-2019 (expected)
+:   **Bsc, Computer Science**; Royal Holloway, University of London (Egham, Surrey)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Media **
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -96,5 +87,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <andrew.nicolalde@gmail.com> • +44 07397 239145 | +1 (817)-726-1855 • 19 years old\
+> 4006 Pembrooke Parkway West - Colleyville TX, United States of America
