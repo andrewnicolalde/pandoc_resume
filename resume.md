@@ -18,11 +18,12 @@ Education
 Experience
 ----------
 
-**Media **
+**Internship | American Airlines**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+*Corporate Communications* | *Summer 2016*
+
+Supported the coordination of the State of the Airline quarterly report.
+Aided in the creation of internal announcements communications.
 
 * First item
 
@@ -78,8 +79,7 @@ Extra Section, Call it Whatever You Want
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Spanish (near-native proficiency)
 
 * Random tidbit
 
