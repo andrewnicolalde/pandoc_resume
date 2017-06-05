@@ -29,12 +29,11 @@ Technical Experience
 --------------------
 
 Information Security
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+:   Created, selected & deployed security policies for personal and organitional use.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Secured multiple UNIX servers for deployment. 
+    * Experienced in threat modeling, deciding and cofiguring technologies such as Fail2Ban, SSH, and SOCKS.
+    * PGP Key Available, see email contact below.
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
@@ -73,6 +72,7 @@ Additional Interests
 
 ----
 
-> <andrew.nicolalde@gmail.com> • +1 (817)-726-1855 | +44 07397 239145 • 19 years old\
+> <andrew.nicolalde@gmail.com> •[PGP](http://pgp.mit.edu/pks/lookup?op=get&search=0xB53712A8C01E0060)•\
+> +1 (817)-726-1855 | +44 07397 239145 • 19 years old\
 > 4006 Pembrooke Parkway West - Colleyville TX 76034, United States of America\
 > Founders RM E212 - Egham Surrey TW20 0EX, United Kingdom\
