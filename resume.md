@@ -35,13 +35,6 @@ Information Security
     * Experienced in threat modeling, deciding and cofiguring technologies such as Fail2Ban, SSH, and SOCKS.
     * PGP Key Available, see email contact below.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
 :   **Java** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
@@ -51,10 +44,9 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **Python** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python** 
+
+     * Jupyter Notebooks
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
