@@ -54,13 +54,13 @@ Additional Interests
      * English (native speaker)
      * Spanish (near-native proficiency)
 
-* Information Security Lover & Enthusiast
+* Information Security Aficionado
 
 * Passionate about and willing to work on Free & Open Source Software
 
 ----
 
-> <andrew.nicolalde@gmail.com> •[PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0xB53712A8C01E0060)•\
+> <andrew.nicolalde@gmail.com> • [PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0xB53712A8C01E0060)\
 > +1 (817)-726-1855 | +44 07397 239145\
 > 4006 Pembrooke Parkway West - Colleyville TX 76034, United States of America\
 > Founders RM E212 - Egham Surrey TW20 0EX, United Kingdom\
