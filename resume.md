@@ -36,19 +36,15 @@ Information Security
     * PGP Key Available, see email contact below.
 
 Programming Languages
-:   **Java** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Java** 
+    
+    * 5 years programming experience
+    * Tested into CS1802 course.
 
 :   **Python** 
 
      * Jupyter Notebooks
 
-[ref]: https://github.com/githubuser/superlongprojectname
 
 Additional Interests
 ----------------------------------------
