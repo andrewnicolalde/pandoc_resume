@@ -3,9 +3,7 @@ Andrew Nicolalde
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Lover of all things computing, First year Computer Science student at Royal Holloway, University of London
 
 ----
 
