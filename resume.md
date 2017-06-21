@@ -39,6 +39,16 @@ Information Security
     * Experienced in threat modeling, deciding and cofiguring technologies such as Fail2Ban, SSH, and SOCKS.
     * PGP Key Available, see email contact below.
 
+VCS
+:   **Git**
+
+    * Well versed in use of Git in real projects
+    * Correct use of branches, commit messages
+    
+:   **Github**
+    
+    * Issue, Project tracking
+
 Programming Languages
 :   **Java** 
     
