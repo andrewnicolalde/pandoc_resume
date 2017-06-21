@@ -14,6 +14,10 @@ Education
 
 2016-2019 (expected)
 :   **Bsc, Computer Science**; Royal Holloway, University of London (Egham, Surrey)
+    *Tested in to CS1802 advanced course during first year*
+
+2016-2017
+:   **American Airlines Education Foundation Scholarship Recipient**
 
 Experience
 ----------
@@ -39,7 +43,7 @@ Programming Languages
 :   **Java** 
     
     * 5 years programming experience
-    * Tested into CS1802 course.
+    * Tested into CS1802 advanced course and colaborated with a team on creating an application for a simulated client.
     * Java graphics APIs
 
 :   **Python** 
