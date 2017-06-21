@@ -5,3 +5,4 @@ resume.tex
 *.swp
 *.docx
 *.rtf
+.DS_Store
