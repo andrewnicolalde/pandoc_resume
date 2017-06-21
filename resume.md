@@ -1,4 +1,4 @@
-Andrew Nicolalde
+[Andrew Nicolalde](https://andrewnicolalde.github.io/about/)
 ============
 
 ----
@@ -38,6 +38,7 @@ Programming Languages
     
     * 5 years programming experience
     * Tested into CS1802 course.
+    * Java graphics APIs
 
 :   **Python** 
 
@@ -54,7 +55,7 @@ Additional Interests
 
 * Information Security Aficionado
 
-* Passionate about and willing to work on Free & Open Source Software
+* Passionate about and eager to work on Free & Open Source Software
 
 ----
 
