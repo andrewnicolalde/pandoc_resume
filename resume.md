@@ -59,6 +59,12 @@ Programming Languages
 :   **Python** 
 
      * Jupyter Notebooks
+     
+Docs
+:   **Excellent English writing skills**
+    
+    * Proficient in use of Javadoc, Python docstrings
+    * Knows what's important to clients and developers
 
 
 Additional Interests
