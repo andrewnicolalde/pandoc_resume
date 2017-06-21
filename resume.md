@@ -5,6 +5,8 @@
 
 > Lover of all things computing, First year Computer Science student at Royal Holloway, University of London
 
+> [AndrewN.co](http://andrewn.co/about/)
+
 ----
 
 Education
