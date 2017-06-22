@@ -72,8 +72,8 @@ Additional Interests
 
 * Human Languages:
 
-     * English (native speaker)
-     * Spanish (native speaker)
+     * *English (native speaker)*
+     * *Spanish (native speaker)*
 
 * Information Security Aficionado
 
