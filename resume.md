@@ -35,7 +35,7 @@ Technical Experience
 Information Security
 :   Created, selected & deployed security policies for personal and organitional use.
 
-    * Secured multiple UNIX servers for deployment. 
+    * Secured multiple UNIX servers for deployment.
     * Experienced in threat modeling, deciding and cofiguring technologies such as Fail2Ban, SSH, and SOCKS.
     * PGP Key Available, see email contact below.
 
@@ -73,7 +73,7 @@ Additional Interests
 * Human Languages:
 
      * English (native speaker)
-     * Spanish (near-native proficiency)
+     * Spanish (native speaker)
 
 * Information Security Aficionado
 
