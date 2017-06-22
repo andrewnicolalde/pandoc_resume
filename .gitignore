@@ -6,3 +6,4 @@ resume.tex
 *.docx
 *.rtf
 .DS_Store
+*.html
