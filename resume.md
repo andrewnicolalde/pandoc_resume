@@ -3,7 +3,7 @@
 
 ----
 
-> Lover of all things computing, First year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in InfoSec or Software Development.
+> Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in InfoSec or Software Development.
 
 > [AndrewN.co](http://andrewn.co/about/)
 
