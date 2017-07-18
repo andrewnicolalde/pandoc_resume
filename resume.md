@@ -3,7 +3,7 @@
 
 ----
 
-> Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in InfoSec or Software Development.
+> Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in InfoSec, WebDev or Software Development.
 
 > [AndrewN.co](http://andrewn.co/about/)
 
@@ -44,25 +44,25 @@ VCS
 
     * Well versed in use of Git in real projects
     * Correct use of branches, commit messages
-    
+
 :   **Github**
-    
+
     * Issue, Project tracking
 
 Programming Languages
-:   **Java** 
-    
+:   **Java**
+
     * 5 years programming experience
     * Tested into CS1802 advanced course and colaborated with a team on creating an application for a simulated client.
     * Java graphics APIs
 
-:   **Python** 
+:   **Python**
 
      * Jupyter Notebooks
-     
+
 Docs
 :   **Excellent English writing skills**
-    
+
     * Proficient in use of Javadoc, Python docstrings
     * Knows what's important to clients and developers
 
