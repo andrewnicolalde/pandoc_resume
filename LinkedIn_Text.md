@@ -1,5 +1,5 @@
 # CV File Description
-Résumé / CV
+CV / Résumé
 
 My CV.
 
