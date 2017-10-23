@@ -65,6 +65,7 @@ Docs
 
     * Proficient in use of Javadoc, Python docstrings
     * Knows what's important to clients and developers
+    * Proficient in Pandoc
 
 
 Additional Interests
