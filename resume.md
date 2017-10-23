@@ -52,7 +52,7 @@ VCS
 Programming Languages
 :   **Java**
 
-    * 5 years programming experience
+    * 6 years programming experience
     * Tested into CS1802 advanced course and colaborated with a team on creating an application for a simulated client.
     * Java graphics APIs
 
