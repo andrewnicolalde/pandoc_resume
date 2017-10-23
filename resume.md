@@ -39,7 +39,12 @@ Information Security
     * Experienced in threat modeling, deciding and cofiguring technologies such as Fail2Ban, SSH, and SOCKS.
     * PGP Key Available, see email contact below.
 
-VCS
+Developer
+
+:   **Test Driven Development**
+    
+    * A firm believer therein.
+    
 :   **Git**
 
     * Well versed in use of Git in real projects
