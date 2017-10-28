@@ -41,7 +41,7 @@ Information Security
 
 Developer
 
-:   **Test Driven Development**
+:   **Agile / Test Driven Development**
     
     * A firm believer therein.
     
@@ -71,6 +71,13 @@ Docs
     * Proficient in use of Javadoc, Python docstrings
     * Knows what's important to clients and developers
     * Proficient in Pandoc
+
+
+Hackathons
+----------------------------------------
+
+Cisco UC 2017
+:    Royal Holloway Team 2
 
 
 Additional Interests
