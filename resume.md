@@ -19,7 +19,7 @@ Education
 2016-2017
 :   **American Airlines Education Foundation Scholarship Recipient**
 
-Experience
+Work Experience
 ----------
 
 **Internship | American Airlines**
@@ -77,7 +77,7 @@ Hackathons
 ----------------------------------------
 
 Cisco UC 2017
-:    Royal Holloway Team 2
+:    Developed a solution designed to ease congestion on trains using the Cisco Meraki API as part of Royal Holloway Team 2.
 
 
 Additional Interests
