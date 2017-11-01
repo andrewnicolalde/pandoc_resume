@@ -58,7 +58,7 @@ Programming Languages
 :   **Java**
 
     * 6 years programming experience
-    * Tested into CS1802 advanced course and colaborated with a team on creating an application for a simulated client.
+    * Tested into CS1802 advanced course and collaborated with a team on creating an application for a simulated client.
     * Java graphics APIs
 
 :   **Python**
