@@ -14,10 +14,10 @@ Education
 
 2016-2019 (expected)
 :   **Bsc, Computer Science**; Royal Holloway, University of London (Egham, Surrey)
-    *Tested in to CS1802 advanced course during first year*
+    *Successfully tested into advanced Software Development course during first year*
 
 2016-2017
-:   **American Airlines Education Foundation Scholarship Recipient**
+:   **Scholarship Recipient - American Airlines Education Foundation**
 
 Work Experience
 ----------
