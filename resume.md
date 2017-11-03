@@ -5,7 +5,7 @@
 
 > Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in InfoSec, WebDev or Software Development.
 
-> [AndrewN.co](http://andrewn.co/about/)
+> [AndrewN.io](http://andrewn.io/about/)
 
 ----
 
@@ -26,8 +26,8 @@ Work Experience
 
 *Corporate Communications* | *Summer 2016*
 
-Supported the coordination of the State of the Airline quarterly report.
-Aided in the creation of internal announcements communications.
+Supported technical setup of company’s quarterly State of the Airline Report corporate event.
+Collaborated in the creation of event’s internal communications announcements.
 
 Technical Experience
 --------------------
