@@ -33,15 +33,15 @@ Technical Experience
 --------------------
 
 Information Security
-:   Created, selected & deployed security policies for personal and organitional use.
+:   Created, selected & deployed security policies for personal and organizational use.
 
     * Secured multiple UNIX servers for deployment.
-    * Experienced in threat modeling, deciding and cofiguring technologies such as Fail2Ban, SSH, and SOCKS.
+    * Experienced in threat modeling, deciding and configuring technologies such as Fail2Ban, SSH, and SOCKS.
     * PGP Key Available, see email contact below.
 
 Developer
 
-:   **Agile / Test Driven Development**
+:   **Agile / Test-Driven Development**
     
     * A firm believer therein.
     
@@ -50,15 +50,15 @@ Developer
     * Well versed in use of Git in real projects
     * Correct use of branches, commit messages
 
-:   **Github**
+:   **GitHub**
 
-    * Issue, Project tracking
+    * Issue, Project Tracking
 
 Programming Languages
 :   **Java**
 
     * 6 years programming experience
-    * Tested into CS1802 advanced course and collaborated with a team on creating an application for a simulated client.
+    * Tested into CS1802 advanced course and collaborated with a team on creating a file management application for a simulated client.
     * Java graphics APIs
 
 :   **Python**
@@ -69,7 +69,7 @@ Docs
 :   **Excellent English writing skills**
 
     * Proficient in use of Javadoc, Python docstrings
-    * Knows what's important to clients and developers
+    * Focused on what's important to clients and developers
     * Proficient in Pandoc
 
 
