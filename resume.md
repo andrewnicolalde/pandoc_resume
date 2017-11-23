@@ -74,11 +74,19 @@ Docs
 
 
 Hackathons
-----------------------------------------
+----------
 
-Cisco UC 2017
-:    Developed a solution designed to ease congestion on trains using the Cisco Meraki API as part of Royal Holloway Team 2.
+**Cisco University Challenge 2017**
 
+*October 2017*
+
+Developed a solution designed to ease congestion on trains using the Cisco Meraki API as part of Royal Holloway Team 2.
+
+**AstonHack 2017**
+
+*November 2017*
+
+Created a [command line interface for Monzo Bank.](https://github.com/crablab/monzo-cli)
 
 Additional Interests
 ----------------------------------------
@@ -90,11 +98,11 @@ Additional Interests
 
 * Information Security Aficionado
 
-* Passionate about and eager to work on Free & Open Source Software
+* Passionate about and eager to contribute to Free & Open Source Software
 
 ----
 
 > <andrew.nicolalde@gmail.com> • [PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0xB53712A8C01E0060)\
 > +1 (817)-726-1855 | +44 07397 239145\
 > 4006 Pembrooke Parkway West - Colleyville TX 76034, United States of America\
-> 4 Harvest Road - Egham Surrey TW20 0QS, United Kingdom\
+> Flat C-L05.1, 70 Egham Hill - Egham Surrey TW20 0BQ, United Kingdom\
