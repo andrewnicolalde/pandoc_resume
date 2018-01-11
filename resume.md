@@ -59,7 +59,7 @@ Programming Languages
 
     * 6 years programming experience
     * Tested into CS1802 advanced course and collaborated with a team on creating a file management application for a simulated client.
-    * Java graphics APIs
+    * Java graphics APIs like JavaFX
 
 :   **Python**
 
@@ -80,7 +80,7 @@ Hackathons
 
 *October 2017*
 
-Developed a solution designed to ease congestion on trains using the Cisco Meraki API as part of Royal Holloway Team 2.
+[Developed a solution designed to ease congestion on trains](https://www.royalholloway.ac.uk/computerscience/news/newsarticles/cisco2017.aspx) using the Cisco Meraki API as part of Royal Holloway Team 2.
 
 **AstonHack 2017**
 
