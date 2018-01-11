@@ -13,7 +13,7 @@ Education
 ---------
 
 2016-2019 (expected)
-:   **Bsc, Computer Science**; Royal Holloway, University of London (Egham, Surrey)
+:   **Bsc, Computer Science (Information Security)**: Royal Holloway, University of London (Egham, Surrey)
     *Successfully tested into advanced Software Development course during first year*
 
 2016-2017
