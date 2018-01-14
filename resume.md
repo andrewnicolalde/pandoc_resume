@@ -88,6 +88,12 @@ Hackathons
 
 Created a [command line interface for Monzo Bank.](https://github.com/crablab/monzo-cli)
 
+**Royal Hackaway 2018**
+
+*January 2018*
+
+Made a [heatmap visualizer of average inpatient healthcare costs in the United States.](https://github.com/andrewnicolalde/Open-Health-Charges-Map)
+
 Additional Interests
 ----------------------------------------
 
