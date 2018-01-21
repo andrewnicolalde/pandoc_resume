@@ -41,7 +41,7 @@ Information Security
 
 Developer
 
-:   **Agile / Test-Driven Development**
+:   **Agile + Scrum / Test-Driven Development**
     
     * A firm believer therein.
     
