@@ -63,7 +63,13 @@ Programming Languages
 
 :   **Python**
 
+     * Flask & Bottle
      * Jupyter Notebooks
+
+: **JavaScript & Web**
+
+     * jQuery
+     * Bootstrap
 
 Docs
 :   **Excellent English writing skills**
