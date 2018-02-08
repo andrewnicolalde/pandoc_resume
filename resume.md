@@ -114,7 +114,7 @@ Additional Interests
 
 ----
 
-> <andrew.nicolalde@gmail.com> • [PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0xB53712A8C01E0060)\
+> <andrew.nicolalde@gmail.com> • [PGP](https://andrewn.io/pgp)\
 > +1 (817)-726-1855 | +44 07397 239145\
 > 4006 Pembrooke Parkway West - Colleyville TX 76034, United States of America\
 > Flat C-L05.1, 70 Egham Hill - Egham Surrey TW20 0BQ, United Kingdom\
