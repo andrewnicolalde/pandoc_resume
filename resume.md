@@ -3,7 +3,7 @@
 
 ----
 
-> Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in InfoSec, WebDev or Software Development.
+> Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in Information Security & Web Development.
 
 > [AndrewN.io](http://andrewn.io/about/)
 
@@ -13,7 +13,8 @@ Education
 ---------
 
 2016-2019 (expected)
-:   **Bsc, Computer Science (Information Security)**: Royal Holloway, University of London (Egham, Surrey)
+:   **MSci Computer Science (Information Security) w/ Year in Industry**: Royal Holloway, University of London
+
     *Successfully tested into advanced Software Development course during first year*
 
 2016-2017
@@ -33,51 +34,48 @@ Technical Experience
 --------------------
 
 Information Security
-:   Created, selected & deployed security policies for personal and organizational use.
+:   Created, selected & deployed security policies for personal & organizational use.
 
-    * Secured multiple UNIX servers for deployment.
-    * Experienced in threat modeling, deciding and configuring technologies such as Fail2Ban, SSH, and SOCKS.
-    * PGP Key Available, see email contact below.
-
-Developer
-
-:   **Agile + Scrum / Test-Driven Development**
-    
-    * A firm believer therein.
-    
-:   **Git**
-
-    * Well versed in use of Git in real projects
-    * Correct use of branches, commit messages
-
-:   **GitHub**
-
-    * Issue, Project Tracking
+    * Secured multiple Linux servers for deployment.
+    * Experienced in threat modeling, selecting and configuring technologies such as Fail2Ban, SSH, & SOCKS.
+    * PGP Key Available, see Keybase below.
 
 Programming Languages
 :   **Java**
 
     * 6 years programming experience
-    * Tested into CS1802 advanced course and collaborated with a team on creating a file management application for a simulated client.
     * Java graphics APIs like JavaFX
 
 :   **Python**
 
      * Flask & Bottle
      * Jupyter Notebooks
+     * Scapy networking library
 
-: **JavaScript & Web**
+:   **JavaScript & Web**
 
      * jQuery
      * Bootstrap
 
-Docs
-:   **Excellent English writing skills**
+Developer
 
-    * Proficient in use of Javadoc, Python docstrings
-    * Focused on what's important to clients and developers
-    * Proficient in Pandoc
+:   **Teamwork**
+    
+    * Received top marks in second year Team Project course, using Scrum & Agile development tools, processes & techniques.
+    * Test-driven developer
+    * A firm believer therein.
+    * GitHub issue, project tracking
 
+:   **Git & VCS**
+
+    * Well practiced in use of Git in real multi-developer & multi-team projects
+    * SVN proficiency
+
+:   **Docs**
+    
+    * Excellent English writing skills
+    * JavaDoc, Python Docs
+    * Pandoc, \LaTeX
 
 Hackathons
 ----------
@@ -86,7 +84,7 @@ Hackathons
 
 *October 2017*
 
-[Developed a solution designed to ease congestion on trains](https://www.royalholloway.ac.uk/computerscience/news/newsarticles/cisco2017.aspx) using the Cisco Meraki API as part of Royal Holloway Team 2.
+[Developed a solution designed to ease congestion on trains](https://www.royalholloway.ac.uk/computerscience/news/newsarticles/cisco2017.aspx) using the Cisco Meraki smart networking API as part of Royal Holloway Team 2.
 
 **AstonHack 2017**
 
@@ -114,7 +112,5 @@ Additional Interests
 
 ----
 
-> <andrew.nicolalde@gmail.com> • [PGP](https://andrewn.io/pgp)\
+> <andrew.nicolalde@gmail.com> • [Keybase](https://keybase.io/andrewnicolalde)\
 > +1 (817)-726-1855 | +44 07397 239145\
-> 4006 Pembrooke Parkway West - Colleyville TX 76034, United States of America\
-> Flat C-L05.1, 70 Egham Hill - Egham Surrey TW20 0BQ, United Kingdom\
