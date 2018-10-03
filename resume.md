@@ -30,6 +30,12 @@ Work Experience
 Supported technical setup of company’s quarterly State of the Airline Report corporate event.
 Collaborated in the creation of event’s internal communications announcements.
 
+**Summer Researcher | Royal Holloway, University of London**
+
+*Information Security Group* | *Summer 2018*
+
+Undertook fully funded research project with the Smart Card and Internet of Things Security Center, explored visualization techniques which better allow enterprise users to monitor the real-time flow of security & compliance sensitive information throughout a complete information system.
+
 Technical Experience
 --------------------
 
@@ -106,7 +112,7 @@ Additional Interests
      * *English (native speaker)*
      * *Spanish (native speaker)*
 
-* Information Security Aficionado
+* Smartcard security, eMRTD protocol security, regulatory compliance
 
 * Passionate about and eager to contribute to Free & Open Source Software
 
