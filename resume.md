@@ -1,21 +1,21 @@
-[Andrew Nicolalde](https://anrewn.io/about/)
+[Andrew Nicolalde](https://andrewn.io/about/)
 ============
 
 ----
 
-> Lover of all things computing, Second year Computer Science student at Royal Holloway, University of London, seeking fulfilling work in Information Security & Web Development.
+> Lover of all things computing! Seeking fulfilling work in embedded systems security, network security and software security.
 
-> [AndrewN.io](http://andrewn.io/about/)
+> [AndrewN.io](https://andrewn.io/about/)
 
 ----
 
 Education
 ---------
 
-2016-2019 (expected)
+2016-2021 (expected)
 :   **MSci Computer Science (Information Security) w/ Year in Industry**: Royal Holloway, University of London
 
-    *Successfully tested into advanced Software Development course during first year*
+    *Top marks in Computer & Network Security module & associated InfoSec modules*
 
 2016-2017
 :   **Scholarship Recipient - American Airlines Education Foundation**
@@ -42,26 +42,22 @@ Technical Experience
 Information Security
 :   Created, selected & deployed security policies for personal & organizational use.
 
-    * Secured multiple Linux servers for deployment.
-    * Experienced in threat modeling, selecting and configuring technologies such as Fail2Ban, SSH, & SOCKS.
+    * Experienced in threat modeling, software & hardware security with specific interest in embedded systems security.
+    * Experience configuring & deploying key management & distribution infrastructure.
+    * Secured multiple Linux servers for production deployment.
     * PGP Key Available, see Keybase below.
 
 Programming Languages
 :   **Java**
 
     * 6 years programming experience
-    * Java graphics APIs like JavaFX
+    * Java graphics libraries (JavaFX), ORMs (Hibernate)
 
 :   **Python**
 
-     * Flask & Bottle
+     * 3 years programming experience
      * Jupyter Notebooks
-     * Scapy networking library
-
-:   **JavaScript & Web**
-
-     * jQuery
-     * Bootstrap
+     * Scapy networking library & raw socket programming
 
 Developer
 
@@ -69,7 +65,6 @@ Developer
     
     * Received top marks in second year Team Project course, using Scrum & Agile development tools, processes & techniques.
     * Test-driven developer
-    * A firm believer therein.
     * GitHub issue, project tracking
 
 :   **Git & VCS**
@@ -119,4 +114,4 @@ Additional Interests
 ----
 
 > <andrew.nicolalde@gmail.com> • [Keybase](https://keybase.io/andrewnicolalde)\
-> +1 (817)-726-1855 | +44 07397 239145\
+> +44 07397 239145 | +1 (817)-726-1855\
